@@ -1,3 +1,9 @@
 apiVersion: v1
-entries: {}
+entries: {
+  nginx:
+      urls: 
+        - https://ranrl.github.io/helm-charts/nginx-1.1.0.tgz
+      version: 1.1.0
+}
 generated: "2022-02-20T11:24:36.130928+08:00"
+
